@@ -74,6 +74,61 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "gRxXzSW0X",
+      "uuid": "33f413ef-aef0-473e-80c0-285a352450cb",
+      "firstName": "fname",
+      "lastName": "lname",
+      "username": "uname",
+      "password": "$2a$10$4ACyzz0qT1bG18qICJyYuuXY3LHMamdxEM9UQUlAUcnozX/40e712",
+      "balance": 0,
+      "createdAt": "2025-03-12T19:03:12.645Z",
+      "modifiedAt": "2025-03-12T19:03:12.645Z"
+    },
+    {
+      "id": "Iq6le4Y5K",
+      "uuid": "c69e8ed1-b796-4b07-bde5-66655ea5d05c",
+      "firstName": "testname",
+      "lastName": "testname",
+      "username": "testname",
+      "password": "$2a$10$lOBL7DNDHxuLUa1UrXO0uuB2ReS04ExM8GwghSQRPSbpBrKKMKyl.",
+      "balance": 0,
+      "createdAt": "2025-03-12T19:08:02.223Z",
+      "modifiedAt": "2025-03-12T19:08:02.223Z"
+    },
+    {
+      "id": "f70uCw03G",
+      "uuid": "d2afbc20-0f05-4b0c-a27e-54daa8104f5a",
+      "firstName": "Herman",
+      "lastName": "Roussel",
+      "username": "8l@ey",
+      "password": "$2a$10$nqKBkbTM9HwdozNS2dE2suX8AsVJ.eiKQ2sm0EvwMY.sFLpb7Ls82",
+      "balance": 0,
+      "createdAt": "2025-03-12T19:09:15.464Z",
+      "modifiedAt": "2025-03-12T19:09:15.464Z"
+    },
+    {
+      "id": "7m5udQD5v",
+      "uuid": "51a60b6f-da81-4726-9c79-edba0d9a51a5",
+      "firstName": "Kathryn",
+      "lastName": "Graziani",
+      "username": "eN](dfRc",
+      "password": "$2a$10$y5fVFd6jiDgDK6p0HiV9.eyUi3YAVd4b.WBXmiIUnRIQ9K6jXItZi",
+      "balance": 0,
+      "createdAt": "2025-03-12T19:14:12.008Z",
+      "modifiedAt": "2025-03-12T19:14:12.008Z"
+    },
+    {
+      "id": "2zSjhBGfU",
+      "uuid": "981c3f51-9af8-42b1-aebf-68b47ba596cf",
+      "firstName": "Dustin",
+      "lastName": "Taylor",
+      "username": "U7OWxJrLOutVRJ^#&t",
+      "password": "$2a$10$kiLGYmnJd72wncdlcv18TOhy.okdOZ5Fvk4BrYmpwtXP9fU7C.Xxa",
+      "balance": 0,
+      "createdAt": "2025-03-12T19:45:17.309Z",
+      "modifiedAt": "2025-03-12T19:45:17.309Z"
     }
   ],
   "contacts": [
